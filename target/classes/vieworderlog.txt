@@ -1,17 +1,17 @@
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=637471a5d7778f57973211be
+Request URI:	https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=6375e3cbd7778f5797336ec2
 Proxy:			<none>
 Request params:	<none>
-Query params:	id=637471a5d7778f57973211be
+Query params:	id=6375e3cbd7778f5797336ec2
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg1NzU2NDgsImV4cCI6MTcwMDEzMzI0OH0.NHd0nuweItt2ua3eHR0c25ES7fC0WaGzXDaq48z_oRU
+Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg2NzA0MDksImV4cCI6MTcwMDIyODAwOX0.hWvyTiPDfMVoECXFl8YkLGL05tS75bE9vuHI9f7O8tY
 				Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Wed, 16 Nov 2022 05:14:14 GMT
+Date: Thu, 17 Nov 2022 07:33:31 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -26,21 +26,21 @@ X-XSS-Protection: 0
 Access-Control-Allow-Origin: *
 Content-Type: application/json; charset=utf-8
 Content-Length: 420
-ETag: W/"1a4-zQkaMUDQXcaNIZK7beHgLK7fmBg"
+ETag: W/"1a4-e/R4KkIdE/DJi+4rr00OniVWJ8Q"
 Vary: Accept-Encoding
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 
 {
     "data": {
-        "_id": "637471a5d7778f57973211be",
+        "_id": "6375e3cbd7778f5797336ec2",
         "orderById": "637468f1d7778f5797320c1b",
         "orderBy": "mystudy@gmail.com",
-        "productOrderedId": "637471a3d7778f57973211b7",
+        "productOrderedId": "6375e3cad7778f5797336eb8",
         "productName": "Samsung tab",
         "country": "india",
         "productDescription": "samsung series",
-        "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1668575651162.jpg",
+        "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1668670410974.jpg",
         "orderPrice": "15500",
         "__v": 0
     },

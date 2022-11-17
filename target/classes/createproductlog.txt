@@ -11,7 +11,7 @@ Request params:	productName=Samsung tab
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg1NzU2NDgsImV4cCI6MTcwMDEzMzI0OH0.NHd0nuweItt2ua3eHR0c25ES7fC0WaGzXDaq48z_oRU
+Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg2NzA0MDksImV4cCI6MTcwMDIyODAwOX0.hWvyTiPDfMVoECXFl8YkLGL05tS75bE9vuHI9f7O8tY
 				Accept=*/*
 				Content-Type=multipart/form-data
 Cookies:		<none>
@@ -22,7 +22,7 @@ Multiparts:		------------
 				C:\Users\Rushikesh Patil\Desktop\2.jpg
 Body:			<none>
 HTTP/1.1 201 Created
-Date: Wed, 16 Nov 2022 05:14:11 GMT
+Date: Thu, 17 Nov 2022 07:33:30 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -37,13 +37,13 @@ X-XSS-Protection: 0
 Access-Control-Allow-Origin: *
 Content-Type: application/json; charset=utf-8
 Content-Length: 79
-ETag: W/"4f-ay6i4Mo5kBzi5pSuFxiPyGe4Gro"
+ETag: W/"4f-D92uYkcOt3rSvxvK5bM82As+0XA"
 Vary: Accept-Encoding
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 
 {
-    "productId": "637471a3d7778f57973211b7",
+    "productId": "6375e3cad7778f5797336eb8",
     "message": "Product Added Successfully"
 }
 Request method:	POST
@@ -53,53 +53,53 @@ Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg1NzU2NDgsImV4cCI6MTcwMDEzMzI0OH0.NHd0nuweItt2ua3eHR0c25ES7fC0WaGzXDaq48z_oRU
+Headers:		Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg2NzA0MDksImV4cCI6MTcwMDIyODAwOX0.hWvyTiPDfMVoECXFl8YkLGL05tS75bE9vuHI9f7O8tY
 				Accept=*/*
-				Content-Type=multipart/form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"
+				Content-Type=multipart/form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"
 Cookies:		<none>
 Multiparts:		------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productImage; filename = 2.jpg
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productImage; filename = 2.jpg
 				Content-Type: application/octet-stream
 
 				C:\Users\Rushikesh Patil\Desktop\2.jpg
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productName; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productName; filename = file
 				Content-Type: text/plain
 
 				Samsung tab
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productAddedBy; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productAddedBy; filename = file
 				Content-Type: text/plain
 
 				637468f1d7778f5797320c1b
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productCategory; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productCategory; filename = file
 				Content-Type: text/plain
 
 				electronics
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productSubCategory; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productSubCategory; filename = file
 				Content-Type: text/plain
 
 				display
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productPrice; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productPrice; filename = file
 				Content-Type: text/plain
 
 				15500
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productDescription; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productDescription; filename = file
 				Content-Type: text/plain
 
 				samsung series
 				------------
-				Content-Disposition: form-data; boundary="pbRZAh_Uwv4wWBEaaPhgroqBXHsT-J0zEZSVQC"; name = productFor; filename = file
+				Content-Disposition: form-data; boundary="3xJMeTp73CSwD9J3JYhfchAeWXhxyWRKS6"; name = productFor; filename = file
 				Content-Type: text/plain
 
 				men
 Body:			<none>
 HTTP/1.1 201 Created
-Date: Wed, 16 Nov 2022 05:14:12 GMT
+Date: Thu, 17 Nov 2022 07:33:31 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -114,12 +114,12 @@ X-XSS-Protection: 0
 Access-Control-Allow-Origin: *
 Content-Type: application/json; charset=utf-8
 Content-Length: 79
-ETag: W/"4f-92nvS3MXmnuwX/JoILjk2qA2T64"
+ETag: W/"4f-APPe6aTB6nPD11kMabWTzF0dE4A"
 Vary: Accept-Encoding
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 
 {
-    "productId": "637471a4d7778f57973211ba",
+    "productId": "6375e3cbd7778f5797336ebc",
     "message": "Product Added Successfully"
 }

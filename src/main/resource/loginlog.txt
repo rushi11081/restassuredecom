@@ -15,7 +15,7 @@ Body:
     "userPassword": "Sangola@123"
 }
 HTTP/1.1 200 OK
-Date: Wed, 16 Nov 2022 05:20:00 GMT
+Date: Thu, 17 Nov 2022 11:34:15 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
 X-DNS-Prefetch-Control: off
@@ -30,13 +30,13 @@ X-XSS-Protection: 0
 Access-Control-Allow-Origin: *
 Content-Type: application/json; charset=utf-8
 Content-Length: 355
-ETag: W/"163-tKDf71Z6EH9AQqRMt+XcN8/UMUE"
+ETag: W/"163-KRvm78GVKPlQH40DxG9YMzSSRHU"
 Vary: Accept-Encoding
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 
 {
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg1NzYwMDAsImV4cCI6MTcwMDEzMzYwMH0.RGxngh7k2vOUJ17aXW4t9-bvU8TvGwPDqtg7dYWiXoo",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzc0NjhmMWQ3Nzc4ZjU3OTczMjBjMWIiLCJ1c2VyRW1haWwiOiJteXN0dWR5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjg0NDY4MTI5MTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2Njg2ODQ4NTUsImV4cCI6MTcwMDI0MjQ1NX0.It1usL37rlbSw0rZB1P173Z5jz7rHWq1xTCSJyNWaZk",
     "userId": "637468f1d7778f5797320c1b",
     "message": "Login Successfully"
 }
